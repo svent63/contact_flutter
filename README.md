@@ -4,6 +4,6 @@ This project is a demo project that was used to learn the MVVM design pattern as
 
 This is a basic application that does not use all the recommended plugins and design patterns.
 
-![](C:\Users\vent0\Dropbox\Flutter\flutter_architecture.drawio.png)
+![](E:\mobile-dev\contacts_flutter\flutter_architecture.drawio.png)
 
 This project only uses the *View*, *ViewModel* and the *Repository*. The data used is from a static list of data.
